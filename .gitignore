@@ -1,0 +1,27 @@
+# --- Archivos de Unity ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Uu]serSettings/
+.utmp/
+
+# --- IDEs y Soluciones ---
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.csproj
+*.sln.docstates
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
+
+*.slnx
