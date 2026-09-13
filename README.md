@@ -44,3 +44,14 @@ If you want to clone and run this project in your local environment:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Sama1495/Vectra.git](https://github.com/Sama1495/Vectra.git)
+
+1. Open Unity Hub.
+
+2. Click on Add project from disk and select the cloned Vectra (or VT_Shooter) folder.
+
+3. Open the project using Unity (ensure you match the compatible Unity Editor version).
+
+4. Open the main scene located in Assets/Scenes/ and hit Play!
+
+##📜 License
+This project is open-source and available under the MIT License.
